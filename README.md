@@ -3,7 +3,7 @@
 
 
 ## INTRODUCTION AND PURPOSE OF THE WEBSITE
-we were tasked to rebuild the Computer science Department website since it was lacking some features and needed improvement.The projoct though was aimed towards helping us apply the web development skills we have aquired in a practical way.The website provides a user-friendly and navigable environment.The website includes 10 pages of which are a homepage,contact page,course page,graduate course phd page,graduate mphilcourse page,graduate msc course page,events page,about page,blog page and an admission page.
+We were tasked to rebuild the Computer science Department website since it was lacking some features and needed improvement.The projoct though was aimed towards helping us apply the web development skills we have aquired in a practical way.The website provides a user-friendly and navigable environment.The website includes 10 pages of which are a homepage,contact page,course page,graduate course phd page,graduate mphilcourse page,graduate msc course page,events page,about page,blog page and an admission page.
 
 ## PROJECT SETUP
 In order to clone and setup the project follow these steps;
@@ -16,7 +16,7 @@ In order to clone and setup the project follow these steps;
  **NAME:** Samuel Kwesi Nyarko
  **STUDENT ID:** 11352618
  
-# SCREENSHOT OF WEBSITES
+# SCREENSHOT OF WEBSITE PAGES
 ![Screenshot 2023-11-28 175202](https://github.com/Daquiver1/DCIT_205_IA/assets/151433019/ae03dc17-9081-4d8b-b6f2-8b2ad953f03b)
 ![Screenshot 2023-11-28 175306](https://github.com/Daquiver1/DCIT_205_IA/assets/151433019/1c209255-900b-4c40-b003-fbd9f518c84e)
 ![Screenshot 2023-11-28 175429](https://github.com/Daquiver1/DCIT_205_IA/assets/151433019/1ec508d2-a207-4dd7-b286-4ea031a8492f)
@@ -36,6 +36,13 @@ In order to clone and setup the project follow these steps;
 ![Screenshot 2023-11-28 180354](https://github.com/SamKnyarko/11352618_DCIT205/assets/151433019/f1e8c0e3-a9be-4417-9dd7-9948b9ed7a11)
 ![Screenshot 2023-11-28 180432](https://github.com/SamKnyarko/11352618_DCIT205/assets/151433019/fa355bcc-dffb-4145-a844-92d842ab5136)
 
+##LESSONS LEARNT FROM PROJECT
+- learnt how to operate o github
+- learnt how to clone a reposiory using vs code and forking a repo locally
+- learnt several git commands like git push,git add,git pull,git commit and git pull
+- learnt how to git push a file locally to git hub
+- learnt how to add logos on a website
+- learnt that everything CSS displays is a box
 
 
 
