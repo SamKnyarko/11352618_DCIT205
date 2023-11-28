@@ -36,8 +36,8 @@ In order to clone and setup the project follow these steps;
 ![Screenshot 2023-11-28 180354](https://github.com/SamKnyarko/11352618_DCIT205/assets/151433019/f1e8c0e3-a9be-4417-9dd7-9948b9ed7a11)
 ![Screenshot 2023-11-28 180432](https://github.com/SamKnyarko/11352618_DCIT205/assets/151433019/fa355bcc-dffb-4145-a844-92d842ab5136)
 
-##LESSONS LEARNT FROM PROJECT
-- learnt how to operate o github
+## LESSONS LEARNT FROM PROJECT
+- learnt how to operate github
 - learnt how to clone a reposiory using vs code and forking a repo locally
 - learnt several git commands like git push,git add,git pull,git commit and git pull
 - learnt how to git push a file locally to git hub
