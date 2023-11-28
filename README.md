@@ -16,3 +16,5 @@ In order to clone and setup the project follow these steps;
  **NAME:** Samuel Kwesi Nyarko
  **STUDENT ID:** 11352618
  
+#SCREENSHOT OF WEBSITES
+![Screenshot 2023-11-28 175202](https://github.com/Daquiver1/DCIT_205_IA/assets/151433019/ae03dc17-9081-4d8b-b6f2-8b2ad953f03b)
