@@ -18,3 +18,4 @@ In order to clone and setup the project follow these steps;
  
 #SCREENSHOT OF WEBSITES
 ![Screenshot 2023-11-28 175202](https://github.com/Daquiver1/DCIT_205_IA/assets/151433019/ae03dc17-9081-4d8b-b6f2-8b2ad953f03b)
+![Screenshot 2023-11-28 175306](https://github.com/Daquiver1/DCIT_205_IA/assets/151433019/1c209255-900b-4c40-b003-fbd9f518c84e)
