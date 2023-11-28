@@ -8,7 +8,7 @@ we were tasked to rebuild the Computer science Department website since it was l
 ## PROJECT SETUP
 In order to clone and setup the project follow these steps;
 1. Ensure that git is installed on device
-2. Clone this repository using `git clone https://github.com/Samknyarko/11352618_DCIT 205.git'.
+2. Clone this repository using `git clone https://github.com/Samknyarko/11352618_DCIT205.git'.
 3. Navigate to the project directory: 'cd [your-path]\11352618_DCIT_205'
 4. Access the website in your browser by opening the html files.
 
